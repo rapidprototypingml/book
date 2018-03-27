@@ -1,6 +1,6 @@
 **I. Introduction: Lowest Barrier to Entry**
 
-1. Why Rapid Prototyping On The Web?
+1. What Is Rapid Prototyping On The Web And Why An Open Source Book?
 
 2. What Is The Serverless Cloud?
 
